@@ -106,14 +106,14 @@
 		82494B622A984DBB00EF6602 /* EmployeeManager */ = {
 			isa = PBXGroup;
 			children = (
-				82494B992A9869BC00EF6602 /* defined-objects */,
 				82494B932A984E8200EF6602 /* main-screens */,
 				82494B632A984DBB00EF6602 /* EmployeeManagerApp.swift */,
-				82494B672A984DBE00EF6602 /* Assets.xcassets */,
-				82494B692A984DBE00EF6602 /* Preview Content */,
 				82494B8F2A984E2500EF6602 /* EmployeeView.swift */,
+				82494B9A2A9869D000EF6602 /* EmployeeEntity.swift */,
 				82494B912A984E5100EF6602 /* MyDatFormatter.swift */,
 				82494B9C2A98746F00EF6602 /* RealmWriter.swift */,
+				82494B672A984DBE00EF6602 /* Assets.xcassets */,
+				82494B692A984DBE00EF6602 /* Preview Content */,
 			);
 			path = EmployeeManager;
 			sourceTree = "<group>";
@@ -150,14 +150,6 @@
 				82494B942A984E9600EF6602 /* EmployeeInformationView.swift */,
 			);
 			path = "main-screens";
-			sourceTree = "<group>";
-		};
-		82494B992A9869BC00EF6602 /* defined-objects */ = {
-			isa = PBXGroup;
-			children = (
-				82494B9A2A9869D000EF6602 /* EmployeeEntity.swift */,
-			);
-			path = "defined-objects";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
